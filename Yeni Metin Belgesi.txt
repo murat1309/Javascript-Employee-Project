@@ -1,0 +1,6 @@
+npm install diyerek başta dependenciesdeki kütüphanelerini indir.
+
+2 tane daha terminal açıyorsun brisinde json server''ını daima açık tutmalısın =>json-server --watch db.json
+
+
+ikincisinde senin portundaki projenin çalıştırılacağı server'ı => npm run start diyerek.

@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "Muratcan Gökyokuş",
+      "department": "Mühendis",
+      "salary": 8000,
+      "id": 1
+    },
+    {
+      "name": "Ekrem Gökyokuş",
+      "department": "Havacılık",
+      "salary": 3500,
+      "id": 2
+    },
+    {
+      "name": "Mustafa",
+      "department": "Polis",
+      "salary": 7000,
+      "id": 3
+    },
+    {
+      "name": "Nursen",
+      "department": "Tekstil",
+      "salary": 6000,
+      "id": 4
+    }
+  ]
+}
